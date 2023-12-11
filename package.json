@@ -1,0 +1,24 @@
+{
+  "name": "hash-search-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bree": "^8.0.3",
+    "cabin": "^9.1.2",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.2",
+    "telegram": "^2.6.21",
+    "tiktok-search": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
